@@ -198,7 +198,7 @@
                 googletag.enableServices();
               }
               googletag
-                .defineSlot("/23353868385/prizeplayzone.com_d1", [[970, 250], [970, 90], [728, 90], [468, 60], [336, 280], [300, 250], [320, 100], [320, 50]], id)
+                .defineSlot("/23353868385/triviazonecom.in_d1", [[970, 250], [970, 90], [728, 90], [468, 60], [336, 280], [300, 250], [320, 100], [320, 50]], id)
                 .defineSizeMapping(
                   googletag
                     .sizeMapping()
