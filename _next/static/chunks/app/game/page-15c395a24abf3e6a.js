@@ -46,7 +46,7 @@
                   .concat(null == u ? void 0 : u.main, " Game | Play ")
                   .concat(
                     null == u ? void 0 : u.tag[0],
-                    " Game Online | Prizeplayzone",
+                    " Game Online | Triviazonecom",
                   ),
               );
               document.title = e;
