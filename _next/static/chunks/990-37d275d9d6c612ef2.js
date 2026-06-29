@@ -39,7 +39,7 @@
                   a = encodeURIComponent(
                     "Hello, I would like to get in touch.",
                   ),
-                  t = "help. champslevl@gmail.com",
+                  t = "playbonusnow@gmail.com",
                   r = "https://mail.google.com/mail/?view=cm&fs=1&to="
                     .concat(t, "&su=")
                     .concat(e, "&body=")
@@ -103,6 +103,7 @@
                             { name: "Developers", path: "/developer.html" },
                             { name: "Affiliates", path: "/affiliates.html" },
                             { name: "Privacy Policy", path: "/privacy-policy.html" },
+                            { name: "Disclaimer", path: "./explore/discalimer.html" },
                           ].map((a) =>
                             (0, r.jsx)(
                               "li",
